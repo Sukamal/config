@@ -1,0 +1,15 @@
+Build:
+  version: 1.0.0
+  name: Loans Service -PROD
+  description: Service for managing user Loans - PROD
+  url: http://localhost:9000
+
+loans:
+  message: For Loans support, contact us at -PROD
+  details:
+    name: API Support for Loans -PROD
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 9876543210
+    - 8765432190

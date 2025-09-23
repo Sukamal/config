@@ -1,0 +1,15 @@
+Build:
+  version: 1.0.0
+  name: Loans Service
+  description: Service for managing user Loans
+  url: http://localhost:9000
+
+loans:
+  message: For Loans support, contact us at
+  details:
+    name: API Support for Loans
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 9876543210
+    - 8765432190

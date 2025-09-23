@@ -1,0 +1,18 @@
+Build:
+  version: 1.0.0
+  name: Accounts Service
+  description: Service for managing user accounts
+  url: http://localhost:8080
+
+contact:
+  message: For support, contact us at
+  details:
+    name: API Support
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 9876543210
+    - 8765432190
+
+
+

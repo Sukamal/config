@@ -1,0 +1,15 @@
+Build:
+  version: 1.0.2
+  name: Accounts Service Prod
+  description: Service for managing user accounts PROD
+  url: http://localhost:8080
+
+contact:
+  message: For support, contact us at PROD
+  details:
+    name: API Support PROD
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 1234567890
+    - 2345678901

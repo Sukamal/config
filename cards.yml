@@ -1,0 +1,15 @@
+Build:
+  version: 1.0.0
+  name: Cards Service
+  description: Service for managing user Carsds
+  url: http://localhost:9000
+
+cards:
+  message: For CARD support, contact us at
+  details:
+    name: API Support for Cards
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 9876543210
+    - 8765432190

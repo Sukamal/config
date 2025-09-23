@@ -1,0 +1,15 @@
+Build:
+  version: 1.0.1
+  name: Accounts Service QA
+  description: Service for managing user accounts QA
+  url: http://localhost:8080
+
+contact:
+  message: For support, contact us at QA
+  details:
+    name: API Support QA
+    url: http://www.example.com/support
+    email: sukamal@abc.com
+  onCallSupport:
+    - 9876543210
+    - 8765432190
