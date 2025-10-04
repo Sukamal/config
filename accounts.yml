@@ -9,7 +9,7 @@ contact:
   details:
     name: API Support
     url: http://www.example.com/support
-    email: sukamal@abc.com
+    email: "{cipher}daf7e29234e6638d27bb52af9db6b34d954316f789ea054029176794821884e9"
   onCallSupport:
     - 9876543210
     - 8765432190
