@@ -5,9 +5,9 @@ Build:
   url: http://localhost:9000
 
 loans:
-  message: For Loans support, contact us at - QA
+  message: For Loans support, contact us at - QA - Update
   details:
-    name: API Support for Loans - QA
+    name: API Support for Loans - QA - Update
     url: http://www.example.com/support
     email: sukamal@abc.com
   onCallSupport:
