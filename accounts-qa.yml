@@ -1,6 +1,6 @@
 Build:
   version: 1.0.1
-  name: Accounts Service QA
+  name: Accounts Service QA - Update
   description: Service for managing user accounts QA
   url: http://localhost:8080
 
