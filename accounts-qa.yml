@@ -5,7 +5,7 @@ Build:
   url: http://localhost:8080
 
 contact:
-  message: For support, contact us at QA
+  message: For support, contact us at QA - Update
   details:
     name: API Support QA
     url: http://www.example.com/support
