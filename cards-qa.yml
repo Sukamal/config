@@ -5,7 +5,7 @@ Build:
   url: http://localhost:9000
 
 cards:
-  message: For CARD support, contact us at - QA -Update - Rabbit- webhook
+  message: For CARD support, contact us at - QA -Update - Rabbit- WebHook
   details:
     name: API Support for Cards - QA
     url: http://www.example.com/support
