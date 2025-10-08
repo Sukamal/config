@@ -5,7 +5,7 @@ Build:
   url: http://localhost:9000
 
 loans:
-  message: For Loans support, contact us at - QA - Update - Rabbit - Webhook
+  message: For Loans support, contact us at - QA - Update - Rabbit - Webhook-1
   details:
     name: API Support for Loans - QA - Update
     url: http://www.example.com/support
